@@ -1,0 +1,107 @@
+.row
+{ 
+   float: right;
+   list-style: none;
+font-color: white;
+text-decoration: none;
+padding: 5px 20px;
+font-family: "Roboto", sans-sarif;
+font-size: 15px;
+
+}
+
+
+.row a:hover {
+  color: red;
+  display: inline-block;
+font-weight:bold;
+}
+
+.left a:hover{
+color: red;
+  display: inline-block;
+font-weight:bold;
+}
+
+.robin img 
+{
+     border-radius:50%;
+     height:30%;
+     width:15%;
+     size:20%;
+      vertical-align:"middle"; 
+margin-top:10%;
+margin-left:60%
+}
+
+.hero
+{
+     position:absolute;
+     width:1200px;
+     margin-left:100px; 
+     margin-top:20px;
+}
+
+h5
+{ 
+color:black;
+text-transform:uppercase;
+font-size:40px;
+text-align:center;
+margin-top:270px;
+font-family:"Lucida Console",Monaco,monospace;
+}
+
+.villain
+{
+     position:absolute;
+     width:1200px;
+     margin-left:80px; 
+     margin-top:20px;
+}
+
+h2
+{ 
+color:black;
+text-transform:uppercase;
+font-size:50px;
+text-align:center;
+margin-top:170px;
+font-family:"Courier New",Courier,monospace;
+}
+
+.fontawesome
+{
+margin-top:90px;
+margin-left:540px;
+font-size:20px;
+font-family:"Courier New",Courier,monospace;
+font-weight:bold;
+}
+
+a{
+text-decoration: none;
+}
+
+a.x
+{color:brown;
+}
+a.y
+{color:solid-blue;}
+a.z
+{color:green;
+}
+
+footer {
+   position: fixed;
+   left: 0;
+   bottom: 0;
+   width: 100%;
+   background-color: hotpink;
+   color: white;
+   text-align: center;
+}
+
+
+
+
